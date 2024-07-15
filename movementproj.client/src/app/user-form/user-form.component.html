@@ -1,0 +1,10 @@
+<form (ngSubmit)="saveUser()">
+    <label for="name">Name:</label>
+    <input id="name" [(ngModel)]="user.name" name="name" required>
+    
+    <label for="email">Email:</label>
+    <input id="email" [(ngModel)]="user.email" name="email" required>
+    
+    <button type="submit">Save</button>
+  </form>
+  
