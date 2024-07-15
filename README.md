@@ -5,12 +5,12 @@
 הוגדרו 2 יוזרים:
 
 
-username: david
-pass: david
+username: david,
+password: david
 
 
-username:bar
-pass:bar
+username:bar,
+password:bar
 
 
 ![image](https://github.com/user-attachments/assets/24216b78-3774-4944-821e-ad1aff930fe4)
